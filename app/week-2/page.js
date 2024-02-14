@@ -1,4 +1,5 @@
 import StudentInfo from './studentinfo';
+import React from 'react';
 export default function Page() {
   return (
     <main>
