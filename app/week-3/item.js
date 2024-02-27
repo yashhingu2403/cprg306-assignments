@@ -2,7 +2,7 @@ import React from 'react';
 
 const Item = ({ name, quantity, category }) => {
   return (
-    <li className="bg-blue-500 p-5 mb-5 rounded-md">
+    <li className="bg-blue-400 p-5 mb-5 rounded-md">
       <p className= "font-sans">
       <p className="text-lg font-bold">{name}</p>
       <p className="text-sm text-white-500">Quantity: {quantity}</p>
