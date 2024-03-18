@@ -23,6 +23,9 @@ export default function Page() {
           <div style={{ backgroundColor: 'green', padding: '10px', margin: '5px' }}>
           <p><Link href="week-7" className="text-blue-500 hover:text-green-500 transition duration-500 block text-lg">Week 7 Assignment</Link></p>
           </div>
+          <div style={{ backgroundColor: 'green', padding: '10px', margin: '5px' }}>
+          <p><Link href="week-8" className="text-blue-500 hover:text-green-500 transition duration-500 block text-lg">Week 8 Assignment</Link></p>
+          </div>
         </ul>
       </main>
 
